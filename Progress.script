@@ -1,0 +1,15 @@
+/* this file is meant to be used to keep track of the progress */
+
+alpha stage:
+
+1. Basic ui
+2. Implement dictionary
+3. Tile selection
+4. Word checking
+5. Fighting mechanics
+6. Add enemies
+7. Swapping tile bags
+
+beta stage:
+
+1. TBD
